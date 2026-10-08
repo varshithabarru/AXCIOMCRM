@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local configuration
+*.env
+.env.*
+!*.env.example
+
+# Local developer tools
+.dotnet-tools/
+
+# Test results
+TestResults/
+coverage/
+coverage.*
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
